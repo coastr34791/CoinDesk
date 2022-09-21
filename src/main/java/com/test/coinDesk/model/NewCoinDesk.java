@@ -26,13 +26,6 @@ public class NewCoinDesk {
     @Getter
     @Setter
     String rate;
-//    public Curr(String code, String name, String rate) {
-//      this.code = code;
-//      this.name = name;
-//      this.rate = rate;
-//    }
-//    public Curr(String code2, String name2, String rate2) {
-//      // TODO Auto-generated constructor stub
-//    }
+
   }
 }

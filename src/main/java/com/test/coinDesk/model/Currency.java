@@ -50,12 +50,5 @@ public class Currency {
     this.description = dto.getDescription();
     this.lastupdate = LocalDateTime.now();
   }
-//  public Currency(Integer id, String code, String name, BigDecimal rate, String description, LocalDateTime lastupdate) {
-//    this.id = id;
-//    this.code = code;
-//    this.name = name;
-//    this.rate = rate;
-//    this.description = description;
-//    this.lastupdate = lastupdate;
-//  }
+
 }
